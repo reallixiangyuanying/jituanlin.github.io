@@ -15,6 +15,12 @@ image:
 
 [ramda-redux](https://github.com/jituanlin/ramda-redux) is a library for reduce **Redux** code.
 
+github: [ramda-redux](https://github.com/jituanlin/ramda-redux)
+
+npm: [ramda-redux](https://www.npmjs.com/package/ramda-redux)
+
+sample:[ramda-redux-sample](https://github.com/jituanlin/ramda-redux-sample)
+
 ## How **ramda-redux** reduce *Redux* template code:
 With **ramda-redux** 
   ```js
