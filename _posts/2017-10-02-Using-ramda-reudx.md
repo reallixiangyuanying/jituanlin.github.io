@@ -113,7 +113,7 @@ With **ramda-redux**
   import reducePattern from './pattern/reduce'  
 
   export default Reducer(
-    {n:0},
+    {number:0},
     Matcher(
       increasePattern,
       reducePattern
@@ -125,7 +125,7 @@ With **ramda-redux**
   ```js
     {
       type: 'someType',
-      payload:someData
+      payload: someData
     }
   ```
 So we cound use **ramda** pure function generate a new state conveniently.
