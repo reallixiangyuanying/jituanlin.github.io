@@ -2,7 +2,7 @@
 layout: post
 title: "Using ramda-redux to simplify Redux code"
 author: "Jituan Lin"
-categories: Function Programming
+categories: Function-programming
 tags: [documentation,sample]
 image:
   feature: ramda-redux-normal.jpg
@@ -13,7 +13,7 @@ image:
 
 ## What is **ramda-redux**  
 
-[ramda-redux](https://github.com/jituanlin/ramda-redux) is a library for reduce **Redux** code.
+[ramda-redux](https://github.com/jituanlin/ramda-redux) is a library for reducing **Redux** code.
 
 github: [ramda-redux](https://github.com/jituanlin/ramda-redux)
 
@@ -21,8 +21,9 @@ npm: [ramda-redux](https://www.npmjs.com/package/ramda-redux)
 
 sample:[ramda-redux-sample](https://github.com/jituanlin/ramda-redux-sample)
 
-## How **ramda-redux** reduce *Redux* template code:
+## How does **ramda-redux** reduce *Redux* template code:
 With **ramda-redux** 
+
   ```js
   //./reducer/index.js
   // create a reducer for createStore function
@@ -79,7 +80,7 @@ With **ramda-redux**
 
 1. Passing this instances(pattern) to `Matcher` factory function.
 
-2. Passing the instance of `Matcher` to Reducer factory function, the return is a function that satisfy for `Redux.createStore`.
+2. Passing the instance of `Matcher` to Reducer factory function, the return is a function that satisfy  `Redux.createStore`.
 
 3. Using `connect` same as traditional `Redux` way
 

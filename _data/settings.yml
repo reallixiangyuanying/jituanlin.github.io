@@ -17,7 +17,7 @@ menu:
 
 social:
 - {icon: 'github', link: 'https://www.github.com/jituanlin'}
-- {icon: 'envelope',link: 'mailto:jituanlin@gmial.com'}
+- {icon: 'envelope',link: 'mailto:jituanlin@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
