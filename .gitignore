@@ -3,4 +3,6 @@ Gemfile
 Gemfile.lock
 .sass-cache
 .jekyll-metadata
-.DS_Store
+.DS_Storensure  
+*/node_modules/
+*/private/

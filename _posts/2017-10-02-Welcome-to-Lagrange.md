@@ -9,6 +9,7 @@ image:
   teaser: mountains-teaser.jpg
   credit: Death to Stock Photo
   creditlink: ""
+description: "Welcome to Jituan's Blog!"  
 ---
 
 ## This blog is about...

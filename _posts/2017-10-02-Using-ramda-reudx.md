@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using ramda-redux to simplify Redux code"
+title: "Using ramda-redux"
 author: "Jituan Lin"
 categories: Function-programming
 tags: [documentation,sample]
@@ -9,6 +9,7 @@ image:
   teaser: ramda-redux-teaser.jpg
   credit:
   creditlink:
+description: "Using Redux with Ramda"  
 ---
 
 ## What is **ramda-redux**  

@@ -9,6 +9,7 @@ image:
   teaser: cutting-teaser.jpg
   credit:
   creditlink:
+description: "About Jituan Lin  "  
 ---
 
 Hi there! I am a programmer and I focus front-end development. 
