@@ -14,6 +14,7 @@ description: "Welcome to Jituan's Blog!"
 
 ## About CSS
 
+
 1. Using BEM convention as possible.
 > The point of BEM convention is *Decoupling the style, as far as possible without using the cascade selector. but `class`.*
 
