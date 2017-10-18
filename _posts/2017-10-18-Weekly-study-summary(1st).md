@@ -5,8 +5,8 @@ author: "Jituan Lin"
 categories: weekly
 tags: [documentation,weekly]
 image:
-  feature: weekly-study-summary-1st.jpg
-  teaser: weekly-study-summary-1st-teaser.jpg
+  feature: weekly-1.jpg
+  teaser: weekly-1-teaser.jpg
   credit: Death to Stock Photo
   creditlink: ""
 description: "Welcome to Jituan's Blog!"  
