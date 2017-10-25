@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to Jituan's Blog!"
 author: "Jituan Lin"
 categories: introduction
-tags: [documentation,sample]
+tags: [Introduction]
 image:
   feature: mountains.jpg
   teaser: mountains-teaser.jpg

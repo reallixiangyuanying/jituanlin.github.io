@@ -3,7 +3,7 @@ layout: post
 title: "About the Author"
 author: "Jituan Lin"
 categories: introduction
-tags: [documentation,sample]
+tags: [Introduction]
 image:
   feature: cutting.jpg
   teaser: cutting-teaser.jpg

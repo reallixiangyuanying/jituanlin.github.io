@@ -3,7 +3,7 @@ layout: post
 title: "Using ramda-redux"
 author: "Jituan Lin"
 categories: Function-programming
-tags: [documentation,sample]
+tags: [FrontEnd,Javascript]
 image:
   feature: ramda-redux-normal.jpg
   teaser: ramda-redux-teaser.jpg

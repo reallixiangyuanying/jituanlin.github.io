@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Weekly study summary"
+title: "About CSS and debug"
 author: "Jituan Lin"
-categories: weekly
-tags: [documentation,weekly]
+categories: frontEnd
+tags: [Programming,FrontEnd]
 image:
   feature: weekly-1.jpg
   teaser: weekly-1-teaser.jpg
@@ -26,9 +26,9 @@ description: "Welcome to Jituan's Blog!"
 
 ## About debug
 
-1. The steps are very important. I summed up the following steps
->1. Write all phenomenon of error, but not make a conclusion, not rigorous conclusion prevent us from discovering truth.
-2. Google the all the keywords you can think of.(We are not supper man.)
-3. If google doesn't provide help, close our eyes, image the work flow of code. Patiently, the problem will eventually be resolved.
-4. Reflect, what knowledge is what we lack when we face this problem, master it! 
+### The steps are very important. I summed up the following steps
+> 1. Write all phenomenon of error, but not make a conclusion, not rigorous conclusion prevent us from discovering truth.
+> 2. Google the all the keywords you can think of.(We are not supper man.)
+> 3. If google doesn't provide help, close our eyes, image the work flow of code. Patiently, the problem will eventually be resolved.
+> 4. Reflect, what knowledge is what we lack when we face this problem, master it! 
 
