@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bind API in React succinctly"
+title: "Bind some API in React one line"
 author: "Jituan Lin"
 categories: frontEnd
 tags: [Programming,FrontEnd,React,Functional-Programming]
