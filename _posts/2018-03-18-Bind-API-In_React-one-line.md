@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Bind some API in React one line"
+title: "Bind API in React one line"
 author: "Jituan Lin"
 categories: frontEnd
 tags: [Programming,FrontEnd,React,Functional-Programming]
 image:
   feature: Bind-API-in-React-succinctly.jpeg
-  teaser: Bind-API-in-React-succinctly.jpeg
+  teaser: Bind-API-in-React-succinctly-cover.jpeg
   credit: Death to Stock Photo
   creditlink: ""
 description: "Welcome to Jituan's Blog!"  
 ---
 
-## Bind some API in React one line
+## Bind API in React one line
 In React, for communicate with server and then render in browser,we need do something like step by step list bellow:
 1. Write a function that initiate a request, in ES6, it likely to return a Promise then will fulfil when server response.
 2. Call it from React component, and set the flag by *setState* function  for indicate the request is emit and the result is *pendding*.
@@ -91,8 +91,11 @@ Now, we could use *State* class to represent *http* result, but how we use it fo
     - When the server response, set the result to *Failure* or *Success* according to response result.
 2. Bind the converted function in React.
 For implement it, we cound write a function for convert, then call it in *React* component *constructor*. 
+
 **Note: for do this we need use *bind* method for let the *this* refer to current *React* instance.**
+
 Or more succinctly, we extends the *React* *Component* for add this convert function:
+
 ```js
 export class Component extends React.Component {
     //the convert method
@@ -132,6 +135,7 @@ export class Component extends React.Component {
 
 }
 ```
+
 ### Finaly, use it like this:
 ```js
  const fetchAnswerApi = willError => new Promise(
