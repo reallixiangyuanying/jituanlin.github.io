@@ -15,7 +15,7 @@ description: "Welcome to Jituan's Blog!"
 ## Bind API in React one line
 In React, for communicate with server and then render in browser,we need do something like step by step list bellow:
 1. Write a function that initiate a request, in ES6, it likely to return a Promise then will fulfil when server response.
-2. Call it from React component, and set the flag by *setState* function  for indicate the request is emit and the result is *pendding*.
+2. pull it from React component, and set the flag by *setState* function  for indicate the request is emit and the result is *pendding*.
 3. Chian the operate of handle result with *Promise.then* function, and then set the flag to *isFulfil* or *isError* for indicate the request state.
 4. Write *Render* function that render result according to state flag and data.
 5. Call the function in *componentDidMount* or whenever you want.
